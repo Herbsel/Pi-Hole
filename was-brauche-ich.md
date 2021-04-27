@@ -10,4 +10,4 @@ Wer SemperVideo bei Youtube noch nicht kennt, hat etwas verpasst. Er / Sie hat /
 
 [PiHole Listen von SemperVideo](https://github.com/RPiList/specials)
 
-Grundsätzlich könnte ich an dieser Stelle schon aufhören, da sie ihren Job wirklich Genial machen. Dazu für den deutschsprachigen Raum. Schau dir auch die Regex Sachen an, die du manuell hinterlegen musst. Gerade für Punycode Adressen am Smartphone sehr sinnvoll! 
+Grundsätzlich könnte ich an dieser Stelle schon aufhören, da sie ihren Job wirklich genial machen. Dazu für den deutschsprachigen Raum. Schau dir auch die Regex Sachen an, die du manuell hinterlegen musst. Gerade für Punycode Adressen am Smartphone sehr sinnvoll! 
