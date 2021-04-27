@@ -11,7 +11,7 @@ Das Ganze hat gleich mehrere Vorteile. Die Anfragen werden schon vor dem Verlass
 1. Traffic gespart da Anfragen direkt in Nirvana geleitet werden
 2. ISP / Google / DNS-Server Anbieter können kein Profil von euch erstellen
 3. DNS Sperren wie der der Clearingstelle Urheberrecht im Internet (CUII) greifen nicht
-4. Werbung diverser Smartphoneapps wird kostenlos (ohne den ganzen Proversionen) herausgefiltert
+4. Werbung diverser Smartphoneapps wird kostenlos (ohne diesen ganzen 3,99€ Pro-Versionen. Wobei "Pro" dann ohne Werbung heißt. Ein Thema für sich) herausgefiltert
 
 Natürlich ist dies ein zweischnidiges Schwert und die andere Seite der Medallie ist die, dass viele Dienste ihr Geld mit Werbung verdienen. Ich persönlich habe auch nichts gegen Werbung an sich, aber wenn eine Internetseite zu 50% aus Werbung besteht, wird es mir zu viel.
 
