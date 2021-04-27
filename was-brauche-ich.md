@@ -4,7 +4,7 @@ Sprich, ein PiHole Filtert DNS Anfragen. Was ein PiHole nicht kann, ist weiterve
 
 Nun weiß hoffentlich jeder was ein DNS Server ist und macht. Die Quellen zu PiHole Listen betragen alleine bei Github zum Zeitpunkt des Schreibens ca. 352 Repositorys mit jeweils teilweise dutzenden Listen. Dazu noch die anderweitig im Netz Auftauchenden. An dieser Stelle möchte ich einige auflisten die ich selber benutzt und/oder die ich empfehlen kann.
 
-SemperVideo:
+**SemperVideo**
 
 Wer SemperVideo bei Youtube noch nicht kennt, hat etwas verpasst. Er / Sie hat / haben eine Liste auf die Beine gestellt, die es in sich haben.
 
