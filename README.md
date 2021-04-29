@@ -8,7 +8,7 @@ PiHole das schwarze Loch für Werbung, so der Slogan des PiHole. Zeitweise gab e
 
 PiHole arbeitet als DNS Resolver, d.H. du gibst auf der OPNSene den PiHole als DNS Server an und verteilst diesen per DHCP. Zukünftig fragt jedes Gerät im Netz diesen an, statt dem bösen 8.8.8.8 von Google. (Am besten auf der OPNSense den kompletten Port 53 Verkehr auf den PiHole lenken)
 
-Einen Schritt weiter geht es, wenn noch der Unbound konfiguriert wird. Damit arbeitet PiHole als Recursiver DNS Server. D.h. den Zwischenschritt, wenn eine IP unbekannt ist und standardmäsßig ein DNS Server des ISPs, Google, Cloudflare etc. gefragt wird fällt weg und der PiHole fragt selber deim DNS Rootserver an.
+Einen Schritt weiter geht es, wenn noch der Unbound konfiguriert wird. Damit arbeitet PiHole als Recursiver DNS Server. D.h. den Zwischenschritt, wenn eine IP unbekannt ist und standardmäßig ein DNS Server des ISPs, Google, Cloudflare etc. gefragt werden würde, fällt weg und der PiHole fragt direkt deim DNS Rootserver an.
 
 Zum Filtern werden [Listen](https://github.com/topics/pihole-blocklists) hinterlegt (von github oder whatelse) in denen IPs bzw. Domains hinterlegt sind. Zum Beispiel hinterlegst du fakeshop24.de im PiHole. Rufst du nun mit deinem Smartphone fakeshop24.de auf, wird die DNS Anfrage an PiHole geschickt und dieser sieht, dass es einen Match mit der Blacklist gibt. Genau da greift der Filter und PiHole antwortet mit 0.0.0.0 quasi dem Äquivalent von /dev/null bei Linux.
 
