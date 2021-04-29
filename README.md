@@ -1,6 +1,6 @@
 ![Titel](https://user-images.githubusercontent.com/53258295/116553216-30443980-a8fa-11eb-9588-e51621fd3d89.png)
 
-##Wir bauen uns unser eigenes Filternet
+**Wir bauen uns unser eigenes Filternet
 
 Bigdata, Überwachung (Tracking), jede smarte Glühbirne sendet mittlerweile nach Hause. Zudem alle Smartphones und deren Apps. Täglich gibt es hunderte, wenn nicht tausende neue Seiten mit Ransomware, Schadware die euch Cryptominer unterjubeln wollen. Immer mehr Botnetze wie Emotet und Co. Wir sind schon lange nicht mehr in der Lage manuell zu arbeiten und dem Verstand alles zu überlassen. Vieles arbeitet im verborgenen ohne dass wir es am PC, Laptop oder Smartphone mitbekommen.
 
