@@ -6,7 +6,7 @@ Bigdata, Überwachung (Tracking), jede smarte Glühbirne sendet mittlerweile nac
 
 PiHole das schwarze Loch für Werbung, so der Slogan des PiHole. Zeitweise gab es in Blogs, bei Youtube und im Netz einen wahren Hype um dieses System. Die Vorgehensweise dabei ist schlicht einfach wie simpel.
 
-PiHole arbeitet als DNS Resolver, d.H. ihr geb auf der OPNSene den PiHole als DNS Server an und verteilt diesen per DHCP und zukünftig fragt ihr diesen an, statt dem bösen 8.8.8.8 von Google. (Am besten auf der OPNSense den kompletten Port 53 Verkehr auf den PiHole lenken)
+PiHole arbeitet als DNS Resolver, d.H. du gibst auf der OPNSene den PiHole als DNS Server an und verteilst diesen per DHCP. Zukünftig fragt jedes Gerät im Netz diesen an, statt dem bösen 8.8.8.8 von Google. (Am besten auf der OPNSense den kompletten Port 53 Verkehr auf den PiHole lenken)
 
 Einen Schritt weiter geht es, wenn noch der Unbound konfiguriert wird. Damit arbeitet PiHole als Recursiver DNS Server. D.h. den Zwischenschritt, wenn eine IP unbekannt ist und standardmäsßig ein DNS Server des ISPs, Google, Cloudflare etc. gefragt wird fällt weg und der PiHole fragt selber deim DNS Rootserver an.
 
