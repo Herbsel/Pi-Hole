@@ -4,7 +4,7 @@
 
 Bigdata, Überwachung (Tracking), jede smarte Glühbirne sendet mittlerweile nach Hause. Zudem alle Smartphones und deren Apps. Täglich gibt es hunderte, wenn nicht tausende neue Seiten mit Ransomware, Schadware die euch Cryptominer unterjubeln wollen. Immer mehr Botnetze wie Emotet und Co. Wir sind schon lange nicht mehr in der Lage manuell zu arbeiten und dem Verstand alles zu überlassen. Vieles arbeitet im verborgenen ohne dass wir es am PC, Laptop oder Smartphone mitbekommen.
 
-PiHole das schwarze Loch für Werbung, so der Slogan des PiHole. Zeitweise gab es in Blogs, bei Youtuber und im Netz einen wahren Hype um dieses System. Die Vorgehensweise dabei ist schlicht einfach wie simpel.
+PiHole das schwarze Loch für Werbung, so der Slogan des PiHole. Zeitweise gab es in Blogs, bei Youtube und im Netz einen wahren Hype um dieses System. Die Vorgehensweise dabei ist schlicht einfach wie simpel.
 
 PiHole arbeitet als DNS Resolver, d.H. ihr geb auf der OPNSene den PiHole als DNS Server an und verteilt diesen per DHCP und zukünftig fragt ihr diesen an, statt dem bösen 8.8.8.8 von Google. (Am besten auf der OPNSense den kompletten Port 53 Verkehr auf den PiHole lenken)
 
