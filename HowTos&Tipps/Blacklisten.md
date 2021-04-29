@@ -18,6 +18,9 @@ Grundsätzlich könnte ich an dieser Stelle schon aufhören, da sie ihren Job wi
 In der
 specials/Blocklisten/readme.md ist eine Auflistung welche Liste was blockt.
 
+**Eine Liste mit weiteren ~130 einbindbaren Listen**
+[wer noch nicht genug hat](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/filter_list_URLs.txt)
+
 **Botnetze**
 [Botnetzliste](https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt)
 
