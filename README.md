@@ -12,7 +12,7 @@ Einen Schritt weiter geht es, wenn noch der Unbound konfiguriert wird. Damit arb
 
 Zum Filtern werden [Listen](https://github.com/topics/pihole-blocklists) hinterlegt (von github oder whatelse) in denen IPs bzw. Domains hinterlegt sind. Zum Beispiel hinterlegst du fakeshop24.de im PiHole. Rufst du nun mit deinem Smartphone fakeshop24.de auf, wird die DNS Anfrage an PiHole geschickt und dieser sieht, dass es einen Match mit der Blacklist gibt. Genau da greift der Filter und PiHole antwortet mit 0.0.0.0 quasi dem Äquivalent von /dev/null bei Linux.
 
-Das Ganze hat gleich mehrere Vorteile. Die Anfragen werden schon vor dem Verlassen des eigenen Netzes gefiltert, kommen also schon gar nicht nach draußen. Das spart Traffic. Dadurch bekommen diverse Werbeanbieter schon gar nicht in den Genuss deiner Daten. Das gleiche gilt für DNS Anbieter wie 8.8.8.8 (Google), da ihr Diese gar nicht mehr anfragt, sondern ihr direkt den Rootserver fragt. Dadurch kann euer Internet Service Provider, oder DNS Server wie der von Google kein Profil von euch erstellen.
+Das Ganze hat gleich mehrere Vorteile. Die Anfragen werden schon vor dem Verlassen des eigenen Netzes gefiltert, kommen also schon gar nicht nach draußen. Das spart Traffic. Dadurch kommen diverse Werbeanbieter schon gar nicht in den Genuss deiner Daten. Das gleiche gilt für DNS Anbieter wie 8.8.8.8 (Google), da ihr Diese gar nicht mehr anfragt, sondern ihr direkt den Rootserver fragt. Dadurch kann euer Internet Service Provider, oder DNS Server wie der von Google kein Profil von euch erstellen.
 
 1. Traffic gespart da Anfragen direkt in Nirvana geleitet werden
 2. ISP / Google / DNS-Server Anbieter können kein Profil von euch erstellen
